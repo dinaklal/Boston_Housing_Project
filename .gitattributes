@@ -1,3 +1,3 @@
-*.c linguist-language=Python
-*.h linguist-language=Python
-*.m linguist-language=Python
+project-docs/* linguist-documentation
+
+project-docs/* linguist-HTML
