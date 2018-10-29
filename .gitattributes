@@ -1,3 +1,5 @@
 * linguist-vendored
 *.js linguist-vendored=false
-*.rb linguist-language=Python
+*.c linguist-language=Python
+*.h linguist-language=Python
+*.m linguist-language=Python
