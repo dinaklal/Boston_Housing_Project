@@ -1,3 +1,2 @@
 project-docs/* linguist-documentation
-
-project-docs/* linguist-HTML
+*.rb linguist-language=Java
